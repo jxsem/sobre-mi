@@ -1,5 +1,8 @@
 # Hola, soy Jose Manuel 👋
 
+<img src="sobre-mi/cartoon_character_laptop.gif" alt="Dibujo animado programando" width="400"/>
+
+
 
 Soy un desarrollador web que está comenzando en el mundo del desarrollo. Actualmente, estoy aprendiendo lenguajes como:
 
