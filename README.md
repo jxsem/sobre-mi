@@ -1,5 +1,5 @@
 # Hola, soy Jose Manuel 👋
-<img src= https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ypl818tit1utb64g62adyfv3z1hzqv01zufjeugp&ep=v1_gifs_search&rid=giphy.gif&ct=g width= 400/>
+<img src= https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ypl818tit1utb64g62adyfv3z1hzqv01zufjeugp&ep=v1_gifs_search&rid=giphy.gif&ct=g width= "400"/>
 
 Soy un desarrollador web que está comenzando en el mundo del desarrollo. Actualmente, estoy aprendiendo lenguajes como:
 
